@@ -80,7 +80,7 @@ Mission_Status:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SecretDeveloper0612&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SecretDeveloper0612&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://assets-v2.lottiefiles.com/a/76a926ee-116a-11ee-b35d-ab7b739dec73/e5fe71dnm8.gif"/>
 
 </p>
 
