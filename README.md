@@ -1,130 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=WELCOME+TO+THE+UPSIDE+DOWN;LUCIFER+%7C+FULL+STACK+DEVELOPER;BUILDING+DIGITAL+REALITIES;REACT+%7C+NEXT.JS+%7C+NODE.JS;THE+CODE+NEVER+SLEEPS..." />
+# ⚡ L U C I F E R ⚡
 
-# 🩸 𝕷𝖚𝖈𝖎𝖋𝖊𝖗
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE+OF+SOFTWARE;REACT+%7C+NEXT.JS+%7C+NODE.JS;AI+%7C+SAAS+%7C+CLOUD+SOLUTIONS" />
 
-### ⚡ Full Stack Developer From The Upside Down ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00f7ff,50:0066ff,100:8a2be2&text=WELCOME%20TO%20MY%20DIGITAL%20UNIVERSE&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700">
+</div>
 
 ---
 
-## 🔮 About Me
+# 🚀 SYSTEM STATUS
 
-```bash
-> Name: Lucifer
-> Role: Full Stack Developer
-> Location: The Upside Down
-> Status: Building SaaS Platforms
-> Mission: Transform Ideas Into Digital Empires
+```yaml
+Name: Lucifer
+Role: Full Stack Developer
+Specialization:
+  - SaaS Platforms
+  - AI Applications
+  - Hotel Booking Systems
+  - Business Automation
+  - Modern Web Apps
+
+Status: ONLINE 🟢
+Location: Earth_01
+Mode: Building Future Technologies
 ```
 
 ---
 
-## 🕯 Current Missions
+# 🧠 CURRENT PROJECTS
 
-### 🏨 Hotel Booking Platform
+### 🏨 Hotel Booking Ecosystem
 
-* User Portal
-* Vendor Dashboard
-* Admin Control Center
-* Appwrite Backend
-* Secure Payments
+```diff
++ Multi Vendor Architecture
++ User Portal
++ Vendor Dashboard
++ Admin Control Center
++ Appwrite Backend
++ Payment Gateway Integration
+```
 
 ### 🤖 FaceHeal AI
 
-* AI Face Analysis
-* Food Scanner
-* Grooming Product Scanner
-* Health Recommendations
-* Smart Notifications
-
-### 🚀 SaaS Development
-
-* CRM Systems
-* Business Solutions
-* Verification Systems
-* Custom Dashboards
-
----
-
-## ⚔ Tech Arsenal
-
-```yaml
-Frontend:
-  - React
-  - Next.js
-  - JavaScript
-  - TypeScript
-  - Tailwind CSS
-
-Backend:
-  - Node.js
-  - Express.js
-
-Database:
-  - MongoDB
-
-Cloud:
-  - Appwrite
-  - Cloudflare
-
-Tools:
-  - Git
-  - GitHub
-  - VS Code
+```diff
++ AI Face Analysis
++ Smart Recommendations
++ Food Scanner
++ Product Scanner
++ Health Tracking
 ```
 
----
-
-## 🔥 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SecretDeveloper0612&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SecretDeveloper0612&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretDeveloper0612&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🦇 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SecretDeveloper0612&color=red&style=for-the-badge"/>
-</p>
-
----
-
-## 📡 Contact The Dimension
-
-📧 [luciferghaming94s@gmail.com](mailto:luciferghaming94s@gmail.com)
-
----
-
-## ⚠ Warning
+### 🚀 SaaS Products
 
 ```diff
-+ Stranger Things Detected
-+ Full Stack Developer Online
-+ Building Future SaaS Platforms
-
-- Bugs Not Allowed
-- Weak UI Not Accepted
++ CRM Systems
++ Verification Platforms
++ Lead Management
++ Business Automation
 ```
 
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+# ⚙️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,appwrite,tailwind,js,ts,firebase,git,github,vscode,cloudflare,docker" />
+
+</div>
 
 ---
 
-# 👹 "Friends Don't Lie. Code Doesn't Either."
+# 📊 PERFORMANCE METRICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SecretDeveloper0612&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretDeveloper0612&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 ACTIVITY MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SecretDeveloper0612&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 CONTRIBUTION GRID
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SecretDeveloper0612&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+```yaml
+Email:
+  luciferghaming94s@gmail.com
+
+Services:
+  - Website Development
+  - SaaS Development
+  - AI Integrations
+  - Mobile Applications
+  - Business Solutions
+```
+
+---
+
+# 🎯 2026 OBJECTIVES
+
+```diff
++ Launch Hotel Booking SaaS
++ Scale FaceHeal AI
++ Build Enterprise Solutions
++ Expand Global Client Network
++ Reach 100+ Successful Projects
+```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SecretDeveloper0612&style=for-the-badge&color=blueviolet"/>
+
+### ⚡ BUILDING TOMORROW'S SOFTWARE TODAY ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00f7ff,50:0066ff,100:8a2be2"/>
 
 </div>
