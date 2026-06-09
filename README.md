@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.imgur.com/8Km9tLL.gif"/>
+<img width="100%" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/744/366/datas/original.gif"/>
 
 <h1>
 ⚡ J.A.R.V.I.S. SYSTEM ONLINE ⚡
