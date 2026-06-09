@@ -1,145 +1,130 @@
 <div align="center">
 
-# 👋 Hi, I'm Lucifer
+<img src="https://readme-typing-svg.herokuapp.com?font=Creepster&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=WELCOME+TO+THE+UPSIDE+DOWN;LUCIFER+%7C+FULL+STACK+DEVELOPER;BUILDING+DIGITAL+REALITIES;REACT+%7C+NEXT.JS+%7C+NODE.JS;THE+CODE+NEVER+SLEEPS..." />
 
-### 🚀 Full Stack Developer | SaaS Builder | Business Solution Architect
+# 🩸 𝕷𝖚𝖈𝖎𝖋𝖊𝖗
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+SaaS+Applications;Creating+Modern+Business+Solutions;Turning+Ideas+Into+Reality" />
+### ⚡ Full Stack Developer From The Upside Down ⚡
 
-</div>
-
----
-
-## 💫 About Me
-
-I'm a passionate Full Stack Developer focused on building:
-
-🏨 Hotel Booking Platforms
-
-🤖 AI Powered Applications
-
-💼 Business Management Systems
-
-📱 Mobile Applications
-
-🌐 Modern Websites & SaaS Products
-
-I help startups and businesses transform ideas into scalable digital products.
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700">
 
 ---
 
-## 🚀 Current Projects
+## 🔮 About Me
+
+```bash
+> Name: Lucifer
+> Role: Full Stack Developer
+> Location: The Upside Down
+> Status: Building SaaS Platforms
+> Mission: Transform Ideas Into Digital Empires
+```
+
+---
+
+## 🕯 Current Missions
 
 ### 🏨 Hotel Booking Platform
-Multi-vendor hotel booking platform with:
-- User Portal
-- Vendor Dashboard
-- Admin Panel
-- Appwrite Backend
-- Secure Payments
+
+* User Portal
+* Vendor Dashboard
+* Admin Control Center
+* Appwrite Backend
+* Secure Payments
 
 ### 🤖 FaceHeal AI
-AI-powered skincare and face analysis application featuring:
-- Face Analysis
-- Food Scanner
-- Grooming Product Scanner
-- AI Recommendations
-- Health Tracking
 
-### 📈 Business Management Solutions
-Custom solutions for:
-- CRM Systems
-- Employee Management
-- Lead Tracking
-- Verification Systems
+* AI Face Analysis
+* Food Scanner
+* Grooming Product Scanner
+* Health Recommendations
+* Smart Notifications
 
----
+### 🚀 SaaS Development
 
-## 🛠 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Cloud & Backend Services
-
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+* CRM Systems
+* Business Solutions
+* Verification Systems
+* Custom Dashboards
 
 ---
 
-## 📊 GitHub Statistics
+## ⚔ Tech Arsenal
 
-<div align="center">
+```yaml
+Frontend:
+  - React
+  - Next.js
+  - JavaScript
+  - TypeScript
+  - Tailwind CSS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SecretDeveloper0612&show_icons=true&theme=tokyonight"/>
+Backend:
+  - Node.js
+  - Express.js
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretDeveloper0612&layout=compact&theme=tokyonight"/>
+Database:
+  - MongoDB
 
-</div>
+Cloud:
+  - Appwrite
+  - Cloudflare
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SecretDeveloper0612&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🌎 Connect With Me
-
-📧 Email: luciferghaming94s@gmail.com
-
-💼 Open for:
-- Website Development
-- SaaS Development
-- Business Solutions
-- AI Integrations
-- Mobile Applications
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+```
 
 ---
 
-## 🎯 2026 Goals
+## 🔥 GitHub Statistics
 
-✅ Launch Hotel Booking SaaS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SecretDeveloper0612&show_icons=true&theme=radical&hide_border=true"/>
+</p>
 
-✅ Launch FaceHeal AI
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SecretDeveloper0612&theme=radical&hide_border=true"/>
+</p>
 
-✅ Build More Business Solutions
-
-✅ Expand Client Portfolio
-
-✅ Create Scalable SaaS Products
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretDeveloper0612&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 🦇 Visitor Counter
 
-### ⚡ Building The Future One Project At A Time ⚡
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SecretDeveloper0612&color=red&style=for-the-badge"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=SecretDeveloper0612&label=Profile%20Views&color=0e75b6&style=flat"/>
+---
+
+## 📡 Contact The Dimension
+
+📧 [luciferghaming94s@gmail.com](mailto:luciferghaming94s@gmail.com)
+
+---
+
+## ⚠ Warning
+
+```diff
++ Stranger Things Detected
++ Full Stack Developer Online
++ Building Future SaaS Platforms
+
+- Bugs Not Allowed
+- Weak UI Not Accepted
+```
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+---
+
+# 👹 "Friends Don't Lie. Code Doesn't Either."
 
 </div>
